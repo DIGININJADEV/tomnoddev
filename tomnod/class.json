@@ -1,7 +1,7 @@
 {
-  "name": "DIGININJA DEV TEST BADGE",
-  "description": "~~ This is a dummy badge ~~",
-  "image": "http://digininjadev.github.io/tomnod/spacecat.png",
-  "criteria": "http://digininjadev.github.io/tomnod/criteria.txt",
-  "issuer": "http://digininjadev.github.io/tomnod/issuer.json"
+  "name": "Tomnod Ping Pong Master Class",
+  "description": "~~ 2014 MVP ~~",
+  "image": "http://afternoon-bayou-5556.herokuapp.com/tomnod/pingpongmaster.png",
+  "criteria": "http://afternoon-bayou-5556.herokuapp.com/tomnod/criteria.txt",
+  "issuer": "http://afternoon-bayou-5556.herokuapp.com/tomnod/issuer.json"
 }
