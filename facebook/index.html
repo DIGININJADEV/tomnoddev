@@ -84,6 +84,13 @@
         'Thanks for logging in, ' + response.name + '!';
     });
   }
+
+  document.getElementById('login-btn').onclick = function() {
+  FB.login(function(response) {
+    Log.info('FB.login response', response);
+  });
+  return false;
+}
 </script>
 
 <!--
@@ -97,6 +104,9 @@
 
 <div id="status">
 </div>
+
+<a href="#" id="login-btn">Log in with Facebook</a>
+
 
 </body>
 </html>
